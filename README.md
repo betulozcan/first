@@ -1,2 +1,0 @@
-# imageviewer
-Havelsan ImageViewer Project
